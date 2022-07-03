@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", "Helvetica Neue", "sans-serif";
+  line-height: normal !important;
+}
+
+html {
+  overscroll-behavior: none;
+  --main: #1b72e8;
+  --main-dark: #1d2f79;
+  --dark: #00397c;
+  --accent: #dff6ff;
+
+  --violet: #8876fe;
+  --magenta: #d71bce;
+  --plum: #8d1287;
+  --indigo: #622aff;
+  --grape: #6529f8;
+  --azure: #027fff;
+  --tomato: #f63e54;
+  --orange: #e66702;
+  --green: #0c9d46;
+  --forest: #0c8346;
+  --sea-green: #099b9d;
+  --teal: #049cb7;
+  --aqua: #039e8f;
+  --moonstone: #2294b1;
+  --midnight: #1b23b3;
+  --sapphire: #3d44c3;
+}
+
+.h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.click {
+  cursor: pointer;
+}
+
+.btn-primary {
+  padding: 5px 10px;
+  background-color: var(--main);
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  margin: 5px;
+
+  transition: all 0.4s;
+}
+
+.btn-primary:hover {
+  transform: scale(1.02, 1.01);
+}
+
+.p {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,28 @@
+.tv-wrapper {
+  /* padding: 10px; */
+  border-radius: 10px;
+  max-width: 500px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+}
+
+.task-title{
+  font-size: 14px;
+}
+
+.check {
+  margin-right: 5px;
+}
+
+.tv-wrapper:hover {
+  background-color: var(--accent);
+}
+
+.tv-icon {
+  margin-right: 10px;
+}
+
+.task-title{
+  padding: 0px 5px;
+}

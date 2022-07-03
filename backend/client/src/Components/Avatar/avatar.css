@@ -1,0 +1,10 @@
+.avatar-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.overlap-img {
+  margin-right: -8px;
+}

@@ -1,0 +1,35 @@
+.message-disp-wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+  flex-direction: row;
+}
+
+.message-img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.message-name {
+  font-weight: 600;
+}
+
+.message-right {
+  padding: 10px;
+  max-width: 60%;
+
+  background-color: var(--accent);
+  color: black;
+  border: none;
+  outline: none;
+  border-radius: 12px;
+  margin-left: 10px;
+  filter: drop-shadow(0px 0px 2px #00000053);
+}
+
+.message-left {
+  margin-right: 10px;
+  filter: drop-shadow(0px 0px 1px #00000070);
+}
