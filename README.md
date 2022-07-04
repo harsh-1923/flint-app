@@ -58,3 +58,11 @@ Premium Users enjoy Flint Messages inside workspaces to chat with collaborators
 
 <img width="400px"  alt="Screenshot 2022-07-01 at 10 30 58 PM" src="https://user-images.githubusercontent.com/80217130/177177894-22cdab78-c0e2-41d3-8b4f-aaf6785318db.png">
 
+
+
+<br />
+<br />
+<br />
+<br />
+
+# Working on deplyoing the project for users to experience Flint
